@@ -1,0 +1,44 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editores/IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+*.swp
+*.swo
+
+# Archivos de Node.js (por si usas npm para alguna herramienta)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Archivos de desarrollo y construcción
+dist/
+build/
+tmp/
+temp/
+
+# Archivos de respaldo o temporales
+*~
+*.bak
+*.tmp
+
+# Archivos de depuración
+debug.log
+
+# Archivos privados o de configuración local
+.env
+.env.local
+.env.*.local
+config.local.js
+
+# Otros archivos típicamente excluidos
+*.log
+.cache/
+coverage/
